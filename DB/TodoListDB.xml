@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TodoListManager>
+<TodoListManager>
+    <Account>
+        <Username>Srajan_123</Username>
+        <TodoList id="list_1">
+            <Title>Demo 1</Title>
+            <Deadline>
+                <Date>
+                    <Day>31</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_1">
+                Create a Website
+            </Todo>
+            <Todo completed="true" id="todo_2">
+            Validate Login Page
+        </Todo>
+        </TodoList>
+        <TodoList id="list_2">
+            <Title>Monday</Title>
+            <Deadline>
+                <Date>
+                    <Day>26</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_3">
+            Finishing Touches to Website
+        </Todo>
+            <Todo completed="false" id="todo_4">
+            Srajan Saldanha
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Aaron_123</Username>
+        <TodoList id="list_1">
+            <Title>Monday</Title>
+            <Deadline>
+                <Date>
+                    <Day>26</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_1">
+            DBMS Practicals
+        </Todo>
+            <Todo completed="false" id="todo_2">
+            Get Bitches
+        </Todo>
+        </TodoList>
+        <TodoList id="list_2">
+            <Title>Wednesday</Title>
+            <Deadline>
+                <Date>
+                    <Day>28</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_3">
+            Still No Bitches?
+        </Todo>
+            <Todo completed="false" id="todo_4">
+            Minor Lecture
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Suyash_123</Username>
+        <TodoList id="list_1">
+            <Title>College</Title>
+            <Deadline>
+                <Date>
+                    <Day>30</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="false" id="todo_1">
+            Presentation
+        </Todo>
+            <Todo completed="true" id="todo_2">
+            Minor Lecture
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Denzil_123</Username>
+        <TodoList id="list_1">
+            <Title>Mangalore</Title>
+            <Deadline>
+                <Date>
+                    <Day>06</Day>
+                    <Month>09</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_1">
+            go manipal
+        </Todo>
+            <Todo completed="false" id="todo_2">
+            go beach
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Brendon_123</Username>
+        <TodoList id="list_1">
+            <Title>College</Title>
+            <Deadline>
+                <Date>
+                    <Day>28</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_1">
+            Travel 4 hours
+        </Todo>
+            <Todo completed="false" id="todo_2">
+            Attend Lectures
+        </Todo>
+        </TodoList>
+        <TodoList id="list_2">
+            <Title>Wednesday</Title>
+            <Deadline>
+                <Date>
+                    <Day>28</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="false" id="todo_3">
+            Eat Good Flippin
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Arya_123</Username>
+    </Account>
+    <Account>
+        <Username>Neil_123</Username>
+        <TodoList id="list_1">
+            <Title>Synergy Summit</Title>
+            <Deadline>
+                <Date>
+                    <Day>27</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="false" id="todo_1">
+            Meeting @ 6
+        </Todo>
+            <Todo completed="false" id="todo_2">
+            Lecture @ 7
+        </Todo>
+            <Todo completed="false" id="todo_3">
+            Gym @ 5
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Neil_123</Username>
+    </Account>
+    <Account>
+        <Username>Admin_123</Username>
+        <TodoList id="list_3">
+            <Title>This is a List</Title>
+            <Deadline>
+                <Date>
+                    <Day>25</Day>
+                    <Month>09</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="false" id="todo_3">
+            This is Todo 1
+        </Todo>
+            <Todo completed="true" id="todo_4">
+            This is Todo 2
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Aaron_A_123</Username>
+        <TodoList id="list_1">
+            <Title>DY Patil</Title>
+            <Deadline>
+                <Date>
+                    <Day>29</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_1">
+            tmkc 4 baar
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Demo_1</Username>
+        <TodoList id="list_1">
+            <Title>Demo1_List1</Title>
+            <Deadline>
+                <Date>
+                    <Day>27</Day>
+                    <Month>08</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="false" id="todo_1">
+            Demo1_Todo1
+        </Todo>
+            <Todo completed="true" id="todo_2">
+            Demo1_Todo2
+        </Todo>
+        </TodoList>
+    </Account>
+    <Account>
+        <Username>Public_View</Username>
+        <TodoList id="list_10">
+            <Title>Hello World</Title>
+            <Deadline>
+                <Date>
+                    <Day>25</Day>
+                    <Month>12</Month>
+                    <Year>2024</Year>
+                </Date>
+            </Deadline>
+            <Todo completed="true" id="todo_11">
+            Did you like the Site?
+        </Todo>
+            <Todo completed="false" id="todo_12">
+            How are You?
+        </Todo>
+        </TodoList>
+    </Account>
+</TodoListManager>

@@ -1,0 +1,36 @@
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.alert.show {
+    opacity: 1;
+}
+
+.alert.success {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.alert.error {
+    background-color: #f44336;
+    color: white;
+}
+
+.alert.neutral {
+    background-color: yellow;
+    color: black;
+}
+
+.alert .close-btn {
+    font-size: 20px;
+    margin-inline: 5px;
+    cursor: pointer;
+}
+
