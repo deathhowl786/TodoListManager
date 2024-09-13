@@ -1,0 +1,1 @@
+A TodoList Manager which stores data of users in an xml format, users can create their own seperate accounts and maintain a TodoList for their daily life. Currently the Save Progress and Sign Up System is not functional due to hosting issues Hence you can use Public_View, 357@creator as username password for login to play around the site.
